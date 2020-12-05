@@ -1,5 +1,5 @@
-## Movie Classifier - Machine Learning Classifier
-In this project, I built and tested a k-nearest-neighbors classifier that could guess whether a movie is a comedy or a thriller, using only the number of times words appear in the movies's screenplay.
+## Movie Classifier - Supervised Machine Learning Algorithm
+In this project, I built and tested a supervised machine learning k-nearest-neighbors classifier that could guess whether a movie is a comedy or a thriller, using only the number of times words appear in the movies's screenplay.
 
 **Languages:** Python
 
